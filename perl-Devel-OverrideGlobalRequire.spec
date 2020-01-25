@@ -4,7 +4,6 @@
 #
 %define		pdir	Devel
 %define		pnam	OverrideGlobalRequire
-%include	/usr/lib/rpm/macros.perl
 Summary:	Devel::OverrideGlobalRequire - Override CORE::GLOBAL::require safely
 Name:		perl-Devel-OverrideGlobalRequire
 Version:	0.001
